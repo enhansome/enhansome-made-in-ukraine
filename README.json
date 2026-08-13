@@ -1,0 +1,1299 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Leaflet by Volodymyr Agafonkin",
+          "description": "🍃 JavaScript library for mobile-friendly interactive maps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:11:21Z",
+            "owner": "Leaflet",
+            "repo": "Leaflet",
+            "stars": 45479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ink by Vadim Demedes",
+          "description": "🌈 React for interactive command-line apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:11:46Z",
+            "owner": "vadimdemedes",
+            "repo": "ink",
+            "stars": 39633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wtfjs: What the f*ck JavaScript? by Denys Dovhan",
+          "description": "🤪 A list of funny and tricky JavaScript examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-03T09:48:44Z",
+            "owner": "denysdovhan",
+            "repo": "wtfjs",
+            "stars": 37688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pnpm by Zoltan Kochan",
+          "description": "📦🚀 Fast, disk space efficient package manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:26:08Z",
+            "owner": "pnpm",
+            "repo": "pnpm",
+            "stars": 36044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drizzle ORM by Andrii Sherman",
+          "description": "/ Aleksandr Blokh / Dan Kochetov TypeScript ORM for SQL databases designed with maximum type safety in mind",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:22:15Z",
+            "owner": "drizzle-team",
+            "repo": "drizzle-orm",
+            "stars": 35458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlgoVPN by Jack Ivanov",
+          "description": "/ TrailOfBits📝 Set up a personal VPN in the cloud at the push of a button",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:46:21Z",
+            "owner": "trailofbits",
+            "repo": "algo",
+            "stars": 30358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redoc by Roman Hotsiy",
+          "description": "Redoc is an open-source tool for generating documentation from OpenAPI (fka Swagger) definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T15:09:55Z",
+            "owner": "Redocly",
+            "repo": "redoc",
+            "stars": 25869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhotoSwipe by Dmitry Semenov",
+          "description": "🖼 JavaScript image gallery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-04T07:31:46Z",
+            "owner": "dimsemenov",
+            "repo": "PhotoSwipe",
+            "stars": 25240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homemade Machine Learning by Oleksii Trekhleb",
+          "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-23T04:22:46Z",
+            "owner": "trekhleb",
+            "repo": "homemade-machine-learning",
+            "stars": 24749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redis Desktop Manager by Igor Malinovskiy",
+          "description": "Cross-platform GUI management tool for Redis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-10T07:40:01Z",
+            "owner": "redis",
+            "repo": "RedisDesktopManager",
+            "stars": 23230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-bootstrap/react-bootstrap by Alexander Shemetovskiy",
+          "description": "✈️ Bootstrap components built with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:45:43Z",
+            "owner": "react-bootstrap",
+            "repo": "react-bootstrap",
+            "stars": 22610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AVA by Vadim Demedes",
+          "description": "Node.js test runner that lets you develop with confidence 🚀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T10:19:10Z",
+            "owner": "avajs",
+            "repo": "ava",
+            "stars": 20834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spaceship ZSH by Denys Dovhan",
+          "description": "🚀⭐ A Zsh prompt for Astronauts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-05T22:32:54Z",
+            "owner": "spaceship-prompt",
+            "repo": "spaceship-prompt",
+            "stars": 20557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphql-js maintained by Ivan Goncharov",
+          "description": "A reference implementation of GraphQL for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T14:26:35Z",
+            "owner": "graphql",
+            "repo": "graphql-js",
+            "stars": 20344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playground and Cheatsheet for Learning Python by Oleksii Trekhleb",
+          "description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T16:03:15Z",
+            "owner": "trekhleb",
+            "repo": "learn-python",
+            "stars": 18190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mock Service Worker by Artem Zakharchenko",
+          "description": "Seamless REST/GraphQL API mocking library for browser and Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T08:54:35Z",
+            "owner": "mswjs",
+            "repo": "msw",
+            "stars": 18141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aiohttp by Andrew Svetlov",
+          "description": "and Sviatoslav Sydorenko Asynchronous HTTP client/server framework for asyncio and Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:19:33Z",
+            "owner": "aio-libs",
+            "repo": "aiohttp",
+            "stars": 16521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YoutubeDownloader by Oleksii Holub",
+          "description": "Downloads videos and playlists from YouTube.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T11:54:42Z",
+            "owner": "Tyrrrz",
+            "repo": "YoutubeDownloader",
+            "stars": 15896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chokidar by Paul Miller",
+          "description": "An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T18:48:51Z",
+            "owner": "paulmillr",
+            "repo": "chokidar",
+            "stars": 12216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resilience4J by Bohdan Storohuk",
+          "description": "Fault tolerance library for Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-08T06:46:06Z",
+            "owner": "resilience4j",
+            "repo": "resilience4j",
+            "stars": 10739
+          }
+        }
+      ],
+      "title": "> 10K ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DiscordChatExporter by Oleksii Holub",
+          "description": "Exports Discord chat logs to a file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T11:23:28Z",
+            "owner": "Tyrrrz",
+            "repo": "DiscordChatExporter",
+            "stars": 11752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlatformIO by Ivan Kravets",
+          "description": "PlatformIO is a professional collaborative platform for embedded development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:20:40Z",
+            "owner": "platformio",
+            "repo": "platformio-core",
+            "stars": 9398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-ninja by Vitaliy Kucheryaviy",
+          "description": "🥷 Fast, Async-ready, Openapi, type hints based framework for building REST APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T11:44:15Z",
+            "owner": "vitalik",
+            "repo": "django-ninja",
+            "stars": 9164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasm3 by Volodymyr Shymanskyy",
+          "description": "🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:56:58Z",
+            "owner": "wasm3",
+            "repo": "wasm3",
+            "stars": 7972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSNotes by Oleksandr Glushchenko",
+          "description": "FSNotes is modern notes manager for macOS and iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-29T11:02:27Z",
+            "owner": "glushchenko",
+            "repo": "fsnotes",
+            "stars": 7438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clusterize.js by Denys Lukov",
+          "description": "Tiny vanilla JS plugin to display large data sets easily",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-15T13:21:38Z",
+            "owner": "NeXTs",
+            "repo": "Clusterize.js",
+            "stars": 7270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Che by Serhii Leshchenko",
+          "description": "Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T14:54:52Z",
+            "owner": "eclipse-che",
+            "repo": "che",
+            "stars": 7154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixelmatch by Volodymyr Agafonkin",
+          "description": "The smallest, simplest and fastest JavaScript pixel-level image comparison library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-07T08:13:13Z",
+            "owner": "mapbox",
+            "repo": "pixelmatch",
+            "stars": 6911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brunch by Paul Miller",
+          "description": "🍴 An opinionated developer-friendly build tool for modern front-end apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-19T14:13:39Z",
+            "owner": "brunch",
+            "repo": "brunch",
+            "stars": 6758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jscpd by Andrey Kucherenko",
+          "description": "Copy/paste detector for programming source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:11:01Z",
+            "owner": "kucherenko",
+            "repo": "jscpd",
+            "stars": 5992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "circular-progress-button by Dmytro Danylyk",
+          "description": "Android Circular Progress Button",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-29T02:12:31Z",
+            "owner": "dmytrodanylyk",
+            "repo": "circular-progress-button",
+            "stars": 5749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngx-bootstrap by Dmitriy Shekhovtsov",
+          "description": "Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:43:35Z",
+            "owner": "valor-software",
+            "repo": "ngx-bootstrap",
+            "stars": 5517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeetingBar by Andrii Leitsius",
+          "description": "MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-27T12:36:21Z",
+            "owner": "leits",
+            "repo": "MeetingBar",
+            "stars": 5299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nestjsx/crud by Micheal Yali",
+          "description": "A crud solution for nestjs making crud operations easier to develop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-16T21:43:39Z",
+            "owner": "nestjsx",
+            "repo": "crud",
+            "stars": 4325
+          }
+        }
+      ],
+      "title": "> 5K ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bash-handbook by Denys Dovhan",
+          "description": "📖 For those who wanna learn Bash",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-05T18:45:47Z",
+            "owner": "denysdovhan",
+            "repo": "bash-handbook",
+            "stars": 6081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CliWrap by Oleksii Holub",
+          "description": "Library for running command line processes (.NET).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T14:34:04Z",
+            "owner": "Tyrrrz",
+            "repo": "CliWrap",
+            "stars": 4993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codeception by Michael Bodnarchuk",
+          "description": "Full-stack testing PHP framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T03:47:09Z",
+            "owner": "Codeception",
+            "repo": "Codeception",
+            "stars": 4862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tailwind-rn by Vadim Demedes",
+          "description": "🦎 Use Tailwind CSS in React Native projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-14T21:58:55Z",
+            "owner": "vadimdemedes",
+            "repo": "tailwind-rn",
+            "stars": 4270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeceptJS by Michael Bodnarchuk",
+          "description": "Supercharged End 2 End Testing Framework for NodeJS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T10:22:07Z",
+            "owner": "codeceptjs",
+            "repo": "CodeceptJS",
+            "stars": 4239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YoutubeExplode by Oleksii Holub",
+          "description": "The ultimate dirty YouTube library (.NET).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T11:45:36Z",
+            "owner": "Tyrrrz",
+            "repo": "YoutubeExplode",
+            "stars": 3710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SunCalc by Volodymyr Agafonkin",
+          "description": "A tiny JavaScript library for calculating sun/moon positions and phases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:56:17Z",
+            "owner": "mourner",
+            "repo": "suncalc",
+            "stars": 3419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ES6 Shim by Paul Miller",
+          "description": "ECMAScript 6 compatibility shims for legacy JS engines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T04:37:38Z",
+            "owner": "paulmillr",
+            "repo": "es6-shim",
+            "stars": 3102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vite Electron Builder Boilerplate by Alex Kozack",
+          "description": "Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T14:05:16Z",
+            "owner": "cawa-93",
+            "repo": "vite-electron-builder",
+            "stars": 2991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-progress-button by Dmytro Danylyk",
+          "description": "Android Buttons With Built-in Progress Meters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-08-28T19:33:32Z",
+            "owner": "dmytrodanylyk",
+            "repo": "android-process-button",
+            "stars": 2977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jets.js by Denys Lukov",
+          "description": "Native CSS search engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-11T01:09:20Z",
+            "owner": "NeXTs",
+            "repo": "Jets.js",
+            "stars": 2772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RBush by Volodymyr Agafonkin",
+          "description": "RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T01:49:37Z",
+            "owner": "mourner",
+            "repo": "rbush",
+            "stars": 2767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LightBulb by Oleksii Holub",
+          "description": "Reduces eye strain by adjusting gamma based on the current time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T10:14:11Z",
+            "owner": "Tyrrrz",
+            "repo": "LightBulb",
+            "stars": 2749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delaunator by Volodymyr Agafonkin",
+          "description": "An incredibly fast JavaScript library for Delaunay triangulation of 2D points",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-24T10:29:50Z",
+            "owner": "mapbox",
+            "repo": "delaunator",
+            "stars": 2615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Earcut by Volodymyr Agafonkin",
+          "description": "The fastest and smallest JavaScript polygon triangulation library for your WebGL apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T08:44:32Z",
+            "owner": "mapbox",
+            "repo": "earcut",
+            "stars": 2572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pastel by Vadim Demedes",
+          "description": "🎨 Framework for effortlessly building Ink apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-21T09:49:14Z",
+            "owner": "vadimdemedes",
+            "repo": "pastel",
+            "stars": 2408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simplify.js by Volodymyr Agafonkin",
+          "description": "High-performance JavaScript polyline simplification library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-14T20:13:23Z",
+            "owner": "mourner",
+            "repo": "simplify-js",
+            "stars": 2392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperCluster by Volodymyr Agafonkin",
+          "description": "A very fast geospatial point clustering library for browsers and Node",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T09:43:43Z",
+            "owner": "mapbox",
+            "repo": "supercluster",
+            "stars": 2345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material-UI pickers by Dmitriy Kovalenko",
+          "description": "Accessible, customizable, delightful date & time pickers for material-ui",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-03-18T00:43:43Z",
+            "owner": "mui",
+            "repo": "material-ui-pickers",
+            "stars": 2308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanoNeuron by Oleksii Trekhleb",
+          "description": "🤖 NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually \"learn\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-23T04:27:56Z",
+            "owner": "trekhleb",
+            "repo": "nano-neuron",
+            "stars": 2272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hegel by Artem Kobzar",
+          "description": "An advanced static type checker",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-29T12:23:47Z",
+            "owner": "JSMonk",
+            "repo": "hegel",
+            "stars": 2083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoJson-VT by Volodymyr Agafonkin",
+          "description": "Slice GeoJSON into vector tiles on the fly in the browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-02T09:09:20Z",
+            "owner": "mapbox",
+            "repo": "geojson-vt",
+            "stars": 2041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CherryPy maintained by Sviatoslav Sydorenko",
+          "description": "A Minimalist Python Web Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:58:57Z",
+            "owner": "cherrypy",
+            "repo": "cherrypy",
+            "stars": 1945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bullshit.js by Volodymyr Agafonkin",
+          "description": "A bookmarklet for translating marketing speak into human-readable text. 💩",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-15T21:44:41Z",
+            "owner": "mourner",
+            "repo": "bullshit.js",
+            "stars": 1898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vagga by Paul Colomiets",
+          "description": "Tool to create development environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-31T06:13:55Z",
+            "owner": "tailhook",
+            "repo": "vagga",
+            "stars": 1891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadow-layout by Dmytro Danylyk",
+          "description": "Android Shadow Layout",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-02T05:21:15Z",
+            "owner": "dmytrodanylyk",
+            "repo": "shadow-layout",
+            "stars": 1773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picocolors by Oleksii Raspopov",
+          "description": "The tiniest and the fastest library for terminal output formatting with ANSI colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-18T17:46:33Z",
+            "owner": "alexeyraspopov",
+            "repo": "picocolors",
+            "stars": 1740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlameBearer by Volodymyr Agafonkin",
+          "description": "Blazing fast flame graph tool for V8 and Node 🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T10:04:24Z",
+            "owner": "mourner",
+            "repo": "flamebearer",
+            "stars": 1660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyPUG co-maintained by Sviatoslav Sydorenko",
+          "description": "as a part of PyPA The \"Python Packaging User Guide\" (PyPUG) aims to be the authoritative resource on how to package and install distributions in Python using current tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T11:03:27Z",
+            "owner": "pypa",
+            "repo": "packaging.python.org",
+            "stars": 1659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CliFx by Oleksii Holub",
+          "description": "Declarative framework for building command line interfaces (.NET).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T14:34:11Z",
+            "owner": "Tyrrrz",
+            "repo": "CliFx",
+            "stars": 1612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "#StandWithUkraine banner for GitHub repos by Volodymyr Shymanskyy",
+          "description": ", Volodymyr Agafonkin and Sviatoslav Sydorenko This repository contains Readme Banners (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T14:07:54Z",
+            "owner": "vshymanskyy",
+            "repo": "StandWithUkraine",
+            "stars": 1545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "folding-plugin by Dmytro Danylyk",
+          "description": "Android File Grouping Plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-11-14T14:48:01Z",
+            "owner": "dmytrodanylyk",
+            "repo": "folding-plugin",
+            "stars": 1512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-morphing-button by Dmytro Danylyk",
+          "description": "Android button which can morph from one shape to another.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-07T06:56:09Z",
+            "owner": "dmytrodanylyk",
+            "repo": "android-morphing-button",
+            "stars": 1430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notejam by Serhii Komar",
+          "description": "For those who wanna learn new server-side framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-18T19:31:52Z",
+            "owner": "komarserjio",
+            "repo": "notejam",
+            "stars": 1137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uashield by opengs",
+          "description": "🇺🇦 Voluntary Ukraine security platform to protect us from Russian forces in the Internet",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-03-11T11:11:42Z",
+            "owner": "opengs",
+            "repo": "uashield",
+            "stars": 1077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsDelivr by Dmytro Akulov",
+          "description": "🌍 jsDelivr offers a free CDN for open source developers and an API to better interact with NPM and JS projects",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "pypi-publish authored and maintained by Sviatoslav Sydorenko",
+          "description": "The blessed GitHub Action, for publishing Python distribution packages to PyPI, the tokenless way. With automatic digital signatures.",
+          "children": []
+        }
+      ],
+      "title": "> 1K ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🇳🇬 made-in-nigeria",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T03:50:35Z",
+            "owner": "acekyd",
+            "repo": "made-in-nigeria",
+            "stars": 1134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇯🇵 made-in-japan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T02:11:11Z",
+            "owner": "suguru03",
+            "repo": "made-in-japan",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇹🇼 made-in-taiwan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-20T08:27:36Z",
+            "owner": "hueitan",
+            "repo": "made-in-taiwan",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇧🇩 made-in-bangladesh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-15T14:12:15Z",
+            "owner": "made-in-bangladesh",
+            "repo": "made-in-bangladesh",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇧🇷 made-in-brazil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:36:07Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-brazil",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇷🇴 made-in-romania",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:45:11Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-romania",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇮🇩 made-in-indonesia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-12T16:32:27Z",
+            "owner": "rujukan",
+            "repo": "made-in-indonesia",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇮🇳 made-in-india",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:40:54Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-india",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇹🇷 made-in-turkey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-06T13:16:22Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-turkey",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇰🇷 made-in-korea",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-23T07:38:46Z",
+            "owner": "738",
+            "repo": "made-in-korea",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇬🇭 made-in-ghana",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-25T11:07:14Z",
+            "owner": "devcongress",
+            "repo": "made-in-ghana",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇿🇲 made-in-zambia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-27T08:58:18Z",
+            "owner": "ZambianTech",
+            "repo": "made-in-zambia",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇵🇱 made-in-poland",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:44:18Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-poland",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇧🇦 made-in-bosnia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:35:31Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-bosnia",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇧🇯 made-in-benin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-22T12:38:24Z",
+            "owner": "olivsinz",
+            "repo": "made-in-benin",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇦🇹 made-in-austria",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:33:58Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-austria",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇨🇴 made-in-colombia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T20:37:16Z",
+            "owner": "IonicaBizau",
+            "repo": "made-in-colombia",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇱🇻 made-in-latvia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-06-08T15:04:37Z",
+            "owner": "ummahusla",
+            "repo": "Made-in-Latvia",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇲🇺 made-in-mauritius",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-26T23:16:00Z",
+            "owner": "Humeira",
+            "repo": "made-in-Mauritius",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🇸🇳 made-in-senegal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-08-05T11:43:31Z",
+            "owner": "JoloffCode",
+            "repo": "made-in-senegal",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Related projects"
+    },
+    {
+      "description": "CC-BY-NC © ChernivtsiJS Team",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:23.115Z",
+    "original_repository": "chernivtsijs/made-in-ukraine",
+    "original_repository_sha": "fb1ce98ed222f6b2e512ac859fbf2b9c37564cc5",
+    "enhanced_repository": "enhansome/enhansome-made-in-ukraine",
+    "enhanced_repository_description": null,
+    "title": "Awesome 🇺🇦 Made in Ukraine with stars"
+  }
+}
