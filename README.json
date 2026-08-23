@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T00:11:46Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39716
+            "stars": 39719
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-03T09:48:44Z",
             "owner": "denysdovhan",
             "repo": "wtfjs",
-            "stars": 37674
+            "stars": 37677
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 50565430,
             "language": "Rust",
-            "last_commit": "2026-08-22T23:25:29Z",
+            "last_commit": "2026-08-23T23:33:21Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36181
+            "stars": 36188
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-19T09:27:02Z",
             "owner": "drizzle-team",
             "repo": "drizzle-orm",
-            "stars": 35554
+            "stars": 35560
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-19T08:43:19Z",
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30358
+            "stars": 30360
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-20T14:24:51Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25884
+            "stars": 25885
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-11-23T04:22:46Z",
             "owner": "trekhleb",
             "repo": "homemade-machine-learning",
-            "stars": 24773
+            "stars": 24774
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-07-10T07:40:01Z",
             "owner": "redis",
             "repo": "RedisDesktopManager",
-            "stars": 23228
+            "stars": 23230
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 15480067,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T04:45:51Z",
+            "last_commit": "2026-08-23T21:52:52Z",
             "owner": "react-bootstrap",
             "repo": "react-bootstrap",
-            "stars": 22611
+            "stars": 22610
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-05T22:32:54Z",
             "owner": "spaceship-prompt",
             "repo": "spaceship-prompt",
-            "stars": 20558
+            "stars": 20560
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-04-06T16:03:15Z",
             "owner": "trekhleb",
             "repo": "learn-python",
-            "stars": 18215
+            "stars": 18218
           }
         },
         {
@@ -252,10 +252,10 @@
             "archived": false,
             "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-22T19:11:47Z",
+            "last_commit": "2026-08-23T23:24:10Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16525
+            "stars": 16526
           }
         },
         {
@@ -267,10 +267,10 @@
             "archived": false,
             "id": 157858597,
             "language": "C#",
-            "last_commit": "2026-08-07T11:54:42Z",
+            "last_commit": "2026-08-23T16:03:54Z",
             "owner": "Tyrrrz",
             "repo": "YoutubeDownloader",
-            "stars": 15970
+            "stars": 15982
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-16T15:34:26Z",
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12219
+            "stars": 12221
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-07T11:23:28Z",
             "owner": "Tyrrrz",
             "repo": "DiscordChatExporter",
-            "stars": 11822
+            "stars": 11829
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-22T17:46:55Z",
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9417
+            "stars": 9418
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-22T15:12:40Z",
             "owner": "vitalik",
             "repo": "django-ninja",
-            "stars": 9172
+            "stars": 9173
           }
         },
         {
@@ -363,10 +363,10 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-22T22:59:10Z",
+            "last_commit": "2026-08-23T09:33:42Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7992
+            "stars": 7994
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 97860533,
             "language": "Swift",
-            "last_commit": "2026-08-22T19:28:31Z",
+            "last_commit": "2026-08-23T09:22:27Z",
             "owner": "glushchenko",
             "repo": "fsnotes",
-            "stars": 7453
+            "stars": 7452
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-08-21T14:16:14Z",
             "owner": "kucherenko",
             "repo": "jscpd",
-            "stars": 6042
+            "stars": 6043
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-17T12:40:50Z",
             "owner": "leits",
             "repo": "MeetingBar",
-            "stars": 5310
+            "stars": 5311
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-19T20:13:57Z",
             "owner": "Tyrrrz",
             "repo": "CliWrap",
-            "stars": 4998
+            "stars": 4999
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-07-11T10:56:17Z",
             "owner": "mourner",
             "repo": "suncalc",
-            "stars": 3460
+            "stars": 3461
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2026-07-21T01:49:37Z",
             "owner": "mourner",
             "repo": "rbush",
-            "stars": 2768
+            "stars": 2769
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-08-03T10:14:11Z",
             "owner": "Tyrrrz",
             "repo": "LightBulb",
-            "stars": 2756
+            "stars": 2757
           }
         },
         {
@@ -932,21 +932,6 @@
         },
         {
           "node_type": "item",
-          "title": "FlameBearer by Volodymyr Agafonkin",
-          "description": "Blazing fast flame graph tool for V8 and Node 🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 127292967,
-            "language": "JavaScript",
-            "last_commit": "2026-06-27T10:04:24Z",
-            "owner": "mourner",
-            "repo": "flamebearer",
-            "stars": 1660
-          }
-        },
-        {
-          "node_type": "item",
           "title": "PyPUG co-maintained by Sviatoslav Sydorenko",
           "description": "as a part of PyPA The \"Python Packaging User Guide\" (PyPUG) aims to be the authoritative resource on how to package and install distributions in Python using current tools.",
           "children": [],
@@ -957,6 +942,21 @@
             "last_commit": "2026-08-19T16:35:21Z",
             "owner": "pypa",
             "repo": "packaging.python.org",
+            "stars": 1661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlameBearer by Volodymyr Agafonkin",
+          "description": "Blazing fast flame graph tool for V8 and Node 🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127292967,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T10:04:24Z",
+            "owner": "mourner",
+            "repo": "flamebearer",
             "stars": 1660
           }
         },
@@ -987,7 +987,7 @@
             "last_commit": "2026-08-05T14:07:54Z",
             "owner": "vshymanskyy",
             "repo": "StandWithUkraine",
-            "stars": 1544
+            "stars": 1545
           }
         },
         {
@@ -1361,7 +1361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:33:26.326Z",
+    "last_updated": "2026-08-23T23:33:43.199Z",
     "original_repository": "chernivtsijs/made-in-ukraine",
     "original_repository_id": 284992280,
     "original_repository_sha": "fb1ce98ed222f6b2e512ac859fbf2b9c37564cc5",
