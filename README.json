@@ -15,7 +15,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196549
+            "stars": 196560
           }
         }
       ],
@@ -33,10 +33,10 @@
             "archived": false,
             "id": 3638964,
             "language": "Python",
-            "last_commit": "2026-08-19T18:12:49Z",
+            "last_commit": "2026-08-25T20:55:28Z",
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 70450
+            "stars": 70460
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-24T12:53:41Z",
             "owner": "Leaflet",
             "repo": "Leaflet",
-            "stars": 45514
+            "stars": 45520
           }
         },
         {
@@ -69,7 +69,7 @@
             "archived": false,
             "id": 94061307,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T00:11:46Z",
+            "last_commit": "2026-08-25T18:52:24Z",
             "owner": "vadimdemedes",
             "repo": "ink",
             "stars": 39733
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 50565430,
             "language": "Rust",
-            "last_commit": "2026-08-25T06:12:02Z",
+            "last_commit": "2026-08-25T23:17:56Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36201
+            "stars": 36211
           }
         },
         {
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 379865325,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:27:02Z",
+            "last_commit": "2026-08-25T20:16:34Z",
             "owner": "drizzle-team",
             "repo": "drizzle-orm",
-            "stars": 35580
+            "stars": 35589
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-19T08:43:19Z",
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30361
+            "stars": 30363
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-20T14:24:51Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25889
+            "stars": 25890
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-12-04T07:31:46Z",
             "owner": "dimsemenov",
             "repo": "PhotoSwipe",
-            "stars": 25240
+            "stars": 25242
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2025-11-23T04:22:46Z",
             "owner": "trekhleb",
             "repo": "homemade-machine-learning",
-            "stars": 24775
+            "stars": 24778
           }
         },
         {
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 15480067,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:52:52Z",
+            "last_commit": "2026-08-25T13:16:18Z",
             "owner": "react-bootstrap",
             "repo": "react-bootstrap",
             "stars": 22610
@@ -267,7 +267,7 @@
             "last_commit": "2026-04-06T16:03:15Z",
             "owner": "trekhleb",
             "repo": "learn-python",
-            "stars": 18222
+            "stars": 18224
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-24T08:54:35Z",
             "owner": "mswjs",
             "repo": "msw",
-            "stars": 18159
+            "stars": 18162
           }
         },
         {
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-25T02:14:12Z",
+            "last_commit": "2026-08-25T22:04:54Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
             "stars": 16526
@@ -309,10 +309,10 @@
             "archived": false,
             "id": 157858597,
             "language": "C#",
-            "last_commit": "2026-08-23T16:03:54Z",
+            "last_commit": "2026-08-25T13:50:24Z",
             "owner": "Tyrrrz",
             "repo": "YoutubeDownloader",
-            "stars": 15992
+            "stars": 15997
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-16T15:34:26Z",
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12222
+            "stars": 12223
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-07T11:23:28Z",
             "owner": "Tyrrrz",
             "repo": "DiscordChatExporter",
-            "stars": 11833
+            "stars": 11836
           }
         },
         {
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 19606299,
             "language": "Python",
-            "last_commit": "2026-08-22T17:46:55Z",
+            "last_commit": "2026-08-25T11:35:00Z",
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9421
+            "stars": 9422
           }
         },
         {
@@ -405,10 +405,10 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-24T17:20:33Z",
+            "last_commit": "2026-08-25T13:53:37Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8000
+            "stars": 8001
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-21T07:29:21Z",
             "owner": "eclipse-che",
             "repo": "che",
-            "stars": 7160
+            "stars": 7161
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-07-07T08:13:13Z",
             "owner": "mapbox",
             "repo": "pixelmatch",
-            "stars": 6927
+            "stars": 6930
           }
         },
         {
@@ -495,10 +495,10 @@
             "archived": false,
             "id": 10353211,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:41:53Z",
+            "last_commit": "2026-08-25T13:39:04Z",
             "owner": "kucherenko",
             "repo": "jscpd",
-            "stars": 6047
+            "stars": 6051
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2026-08-17T12:40:50Z",
             "owner": "leits",
             "repo": "MeetingBar",
-            "stars": 5315
+            "stars": 5316
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2024-07-16T21:43:39Z",
             "owner": "nestjsx",
             "repo": "crud",
-            "stars": 4325
+            "stars": 4324
           }
         }
       ],
@@ -594,7 +594,7 @@
             "last_commit": "2026-08-19T20:13:57Z",
             "owner": "Tyrrrz",
             "repo": "CliWrap",
-            "stars": 4999
+            "stars": 4998
           }
         },
         {
@@ -651,7 +651,7 @@
             "archived": false,
             "id": 65284422,
             "language": "C#",
-            "last_commit": "2026-08-07T11:45:36Z",
+            "last_commit": "2026-08-25T13:40:04Z",
             "owner": "Tyrrrz",
             "repo": "YoutubeExplode",
             "stars": 3716
@@ -669,7 +669,7 @@
             "last_commit": "2026-07-11T10:56:17Z",
             "owner": "mourner",
             "repo": "suncalc",
-            "stars": 3461
+            "stars": 3462
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-08-03T14:05:16Z",
             "owner": "cawa-93",
             "repo": "vite-electron-builder",
-            "stars": 2991
+            "stars": 2990
           }
         },
         {
@@ -759,7 +759,7 @@
             "last_commit": "2026-08-03T10:14:11Z",
             "owner": "Tyrrrz",
             "repo": "LightBulb",
-            "stars": 2758
+            "stars": 2757
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2026-08-24T17:57:48Z",
             "owner": "cherrypy",
             "repo": "cherrypy",
-            "stars": 1945
+            "stars": 1946
           }
         },
         {
@@ -1059,7 +1059,7 @@
             "last_commit": "2025-07-07T06:56:09Z",
             "owner": "dmytrodanylyk",
             "repo": "android-morphing-button",
-            "stars": 1430
+            "stars": 1429
           }
         },
         {
@@ -1403,7 +1403,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:13.981Z",
+    "last_updated": "2026-08-25T23:35:24.898Z",
     "original_repository": "chernivtsijs/made-in-ukraine",
     "original_repository_id": 284992280,
     "original_repository_sha": "fb1ce98ed222f6b2e512ac859fbf2b9c37564cc5",
