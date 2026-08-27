@@ -36,7 +36,7 @@
             "last_commit": "2026-08-26T21:11:29Z",
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 70476
+            "stars": 70479
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-24T12:53:41Z",
             "owner": "Leaflet",
             "repo": "Leaflet",
-            "stars": 45524
+            "stars": 45525
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-25T18:52:24Z",
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39742
+            "stars": 39744
           }
         },
         {
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 50565430,
             "language": "Rust",
-            "last_commit": "2026-08-27T03:50:53Z",
+            "last_commit": "2026-08-27T11:43:58Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36227
+            "stars": 36240
           }
         },
         {
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 379865325,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T16:28:01Z",
+            "last_commit": "2026-08-27T09:38:07Z",
             "owner": "drizzle-team",
             "repo": "drizzle-orm",
             "stars": 35602
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-26T21:45:41Z",
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30367
+            "stars": 30368
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-20T14:24:51Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25888
+            "stars": 25889
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-07-10T07:40:01Z",
             "owner": "redis",
             "repo": "RedisDesktopManager",
-            "stars": 23233
+            "stars": 23235
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-06-17T10:19:10Z",
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20830
+            "stars": 20831
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-18T21:18:04Z",
             "owner": "graphql",
             "repo": "graphql-js",
-            "stars": 20343
+            "stars": 20344
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-04-06T16:03:15Z",
             "owner": "trekhleb",
             "repo": "learn-python",
-            "stars": 18225
+            "stars": 18226
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-07-24T08:54:35Z",
             "owner": "mswjs",
             "repo": "msw",
-            "stars": 18168
+            "stars": 18170
           }
         },
         {
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 13258039,
             "language": "Python",
-            "last_commit": "2026-08-26T14:47:04Z",
+            "last_commit": "2026-08-27T11:06:21Z",
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16526
+            "stars": 16529
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-26T11:47:17Z",
             "owner": "Tyrrrz",
             "repo": "YoutubeDownloader",
-            "stars": 16004
+            "stars": 16011
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-16T15:34:26Z",
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12225
+            "stars": 12226
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-07-08T06:46:06Z",
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10749
+            "stars": 10751
           }
         }
       ],
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-25T11:35:00Z",
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9424
+            "stars": 9428
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-08-24T14:12:22Z",
             "owner": "vitalik",
             "repo": "django-ninja",
-            "stars": 9175
+            "stars": 9177
           }
         },
         {
@@ -405,7 +405,7 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-26T14:47:10Z",
+            "last_commit": "2026-08-27T10:38:26Z",
             "owner": "wasm3",
             "repo": "wasm3",
             "stars": 8002
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-23T09:22:27Z",
             "owner": "glushchenko",
             "repo": "fsnotes",
-            "stars": 7456
+            "stars": 7458
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-08-25T13:39:04Z",
             "owner": "kucherenko",
             "repo": "jscpd",
-            "stars": 6057
+            "stars": 6059
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-08-17T14:08:31Z",
             "owner": "valor-software",
             "repo": "ngx-bootstrap",
-            "stars": 5515
+            "stars": 5516
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-08-25T13:40:04Z",
             "owner": "Tyrrrz",
             "repo": "YoutubeExplode",
-            "stars": 3717
+            "stars": 3718
           }
         },
         {
@@ -1403,9 +1403,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:29:57.037Z",
-    "original_repository": "chernivtsijs/made-in-ukraine",
-    "original_repository_id": 284992280,
+    "last_updated": "2026-08-27T11:52:41.052Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 284992280,
+      "language": null,
+      "last_commit": "2025-11-17T18:22:23Z",
+      "owner": "chernivtsijs",
+      "repo": "made-in-ukraine",
+      "stars": 603
+    },
     "original_repository_sha": "fb1ce98ed222f6b2e512ac859fbf2b9c37564cc5",
     "enhanced_repository": "enhansome/enhansome-made-in-ukraine",
     "enhanced_repository_description": null,
