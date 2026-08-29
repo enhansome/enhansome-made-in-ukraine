@@ -85,7 +85,7 @@
             "open_issues": 565,
             "owner": "Leaflet",
             "repo": "Leaflet",
-            "stars": 45528,
+            "stars": 45529,
             "topics": [
               "javascript",
               "leaflet",
@@ -952,7 +952,7 @@
             "open_issues": 54,
             "owner": "kucherenko",
             "repo": "jscpd",
-            "stars": 6063,
+            "stars": 6064,
             "topics": [
               "ai",
               "clones-detection",
@@ -1232,7 +1232,7 @@
             "open_issues": 220,
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
-            "stars": 4242,
+            "stars": 4243,
             "topics": [
               "acceptance-testing",
               "bdd",
@@ -1271,7 +1271,7 @@
             "open_issues": 8,
             "owner": "Tyrrrz",
             "repo": "YoutubeExplode",
-            "stars": 3718,
+            "stars": 3719,
             "topics": [
               "dotnet",
               "dotnet-core",
@@ -2532,7 +2532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:07:43.293Z",
+    "last_updated": "2026-08-29T04:41:39.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇺🇦 Curating the best projects that were made and mainly contributed by Ukrainian developers",

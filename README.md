@@ -35,7 +35,7 @@ If these conditions are met, feel free to open a PR!
 
 ## > 10K ⭐️
 
-* **[Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,528 | 🐛 565 | 🌐 JavaScript | 📅 2026-08-24** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,529 | 🐛 565 | 🌐 JavaScript | 📅 2026-08-24** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   🍃 JavaScript library for mobile-friendly interactive maps
 
 * **[Ink](https://github.com/vadimdemedes/ink) ⭐ 39,755 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-25** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
@@ -124,7 +124,7 @@ If these conditions are met, feel free to open a PR!
 * **[Brunch](https://github.com/brunch/brunch) ⭐ 6,758 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-19** `ARCHIVED` by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
   🍴 An opinionated developer-friendly build tool for modern front-end apps
 
-* **[jscpd](https://github.com/kucherenko/jscpd) ⭐ 6,063 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-28** by [Andrey Kucherenko](https://github.com/sponsors/kucherenko)<br>
+* **[jscpd](https://github.com/kucherenko/jscpd) ⭐ 6,064 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-28** by [Andrey Kucherenko](https://github.com/sponsors/kucherenko)<br>
   Copy/paste detector for programming source code.
 
 * **[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) ⭐ 5,750 | 🐛 26 | 🌐 Java | 📅 2026-06-29** by [Dmytro Danylyk](https://github.com/sponsors/dmytrodanylyk)<br>
@@ -153,10 +153,10 @@ If these conditions are met, feel free to open a PR!
 * **[tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) ⭐ 4,270 | 🐛 39 | 🌐 JavaScript | 📅 2025-04-14** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
   🦎 Use Tailwind CSS in React Native projects
 
-* **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS) ⭐ 4,242 | 🐛 220 | 🌐 JavaScript | 📅 2026-08-24** by [Michael Bodnarchuk](https://github.com/sponsors/DavertMik)<br>
+* **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS) ⭐ 4,243 | 🐛 220 | 🌐 JavaScript | 📅 2026-08-24** by [Michael Bodnarchuk](https://github.com/sponsors/DavertMik)<br>
   Supercharged End 2 End Testing Framework for NodeJS
 
-* **[YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) ⭐ 3,718 | 🐛 8 | 🌐 C# | 📅 2026-08-25** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+* **[YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) ⭐ 3,719 | 🐛 8 | 🌐 C# | 📅 2026-08-25** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   The ultimate dirty YouTube library (.NET).
 
 * **[SunCalc](https://github.com/mourner/suncalc) ⭐ 3,464 | 🐛 12 | 🌐 JavaScript | 📅 2026-07-11** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
