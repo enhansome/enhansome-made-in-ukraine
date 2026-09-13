@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-07-26T02:43:08Z",
-            "open_issues": 404,
+            "open_issues": 406,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196681,
+            "stars": 196697,
             "topics": [
               "algorithm",
               "algorithms",
@@ -55,7 +55,7 @@
             "open_issues": 835,
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 70661,
+            "stars": 70665,
             "topics": [
               "ansible",
               "python"
@@ -82,10 +82,10 @@
             "language": "JavaScript",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-09T21:11:20Z",
-            "open_issues": 572,
+            "open_issues": 574,
             "owner": "Leaflet",
             "repo": "Leaflet",
-            "stars": 45605,
+            "stars": 45611,
             "topics": [
               "javascript",
               "leaflet",
@@ -110,7 +110,7 @@
             "open_issues": 29,
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 39856,
+            "stars": 39865,
             "topics": [
               "cli",
               "command-line",
@@ -164,11 +164,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T01:04:30Z",
-            "open_issues": 2551,
+            "last_commit": "2026-09-12T23:33:55Z",
+            "open_issues": 2560,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36490,
+            "stars": 36507,
             "topics": [
               "dependency-manager",
               "install",
@@ -195,10 +195,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T15:04:58Z",
-            "open_issues": 2019,
+            "open_issues": 2022,
             "owner": "drizzle-team",
             "repo": "drizzle-orm",
-            "stars": 35744,
+            "stars": 35752,
             "topics": [
               "bunjs",
               "mysql",
@@ -230,7 +230,7 @@
             "open_issues": 77,
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30373,
+            "stars": 30375,
             "topics": [
               "ansible",
               "encryption",
@@ -296,7 +296,7 @@
             "open_issues": 170,
             "owner": "dimsemenov",
             "repo": "PhotoSwipe",
-            "stars": 25249,
+            "stars": 25247,
             "topics": [
               "gallery",
               "image",
@@ -322,7 +322,7 @@
             "open_issues": 30,
             "owner": "trekhleb",
             "repo": "homemade-machine-learning",
-            "stars": 24780,
+            "stars": 24782,
             "topics": [
               "algorithm",
               "jupyter",
@@ -400,7 +400,7 @@
             "open_issues": 74,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20825,
+            "stars": 20826,
             "topics": [
               "assert",
               "async",
@@ -440,7 +440,7 @@
             "open_issues": 129,
             "owner": "spaceship-prompt",
             "repo": "spaceship-prompt",
-            "stars": 20573,
+            "stars": 20574,
             "topics": [
               "oh-my-zsh",
               "prompt",
@@ -496,7 +496,7 @@
             "open_issues": 43,
             "owner": "trekhleb",
             "repo": "learn-python",
-            "stars": 18282,
+            "stars": 18283,
             "topics": [
               "learning",
               "learning-by-doing",
@@ -524,7 +524,7 @@
             "open_issues": 41,
             "owner": "mswjs",
             "repo": "msw",
-            "stars": 18202,
+            "stars": 18203,
             "topics": [
               "api",
               "api-mocking",
@@ -554,7 +554,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T22:22:56Z",
-            "open_issues": 219,
+            "open_issues": 220,
             "owner": "aio-libs",
             "repo": "aiohttp",
             "stars": 16548,
@@ -584,10 +584,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-11T17:26:30Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "Tyrrrz",
             "repo": "YoutubeDownloader",
-            "stars": 16162,
+            "stars": 16168,
             "topics": [
               "download",
               "downloader",
@@ -644,10 +644,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T06:01:41Z",
-            "open_issues": 303,
+            "open_issues": 304,
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10757,
+            "stars": 10758,
             "topics": [
               "bulkhead",
               "circuitbreaker",
@@ -681,7 +681,7 @@
             "open_issues": 15,
             "owner": "Tyrrrz",
             "repo": "DiscordChatExporter",
-            "stars": 11979,
+            "stars": 11983,
             "topics": [
               "archival",
               "archiver",
@@ -710,7 +710,7 @@
             "open_issues": 278,
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9451,
+            "stars": 9452,
             "topics": [
               "arduino",
               "arm",
@@ -752,7 +752,7 @@
             "open_issues": 226,
             "owner": "vitalik",
             "repo": "django-ninja",
-            "stars": 9188,
+            "stars": 9189,
             "topics": [
               "django",
               "django-ninja",
@@ -778,7 +778,7 @@
             "id": 212152900,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-10T19:48:43Z",
+            "last_commit": "2026-09-12T16:25:39Z",
             "open_issues": 18,
             "owner": "wasm3",
             "repo": "wasm3",
@@ -817,7 +817,7 @@
             "open_issues": 4,
             "owner": "glushchenko",
             "repo": "fsnotes",
-            "stars": 7481,
+            "stars": 7483,
             "topics": [
               "ios",
               "macos",
@@ -948,11 +948,11 @@
             "id": 10353211,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-11T06:48:27Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-12T08:34:19Z",
+            "open_issues": 45,
             "owner": "kucherenko",
             "repo": "jscpd",
-            "stars": 6191,
+            "stars": 6198,
             "topics": [
               "ai",
               "cli",
@@ -1012,10 +1012,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-17T14:08:31Z",
-            "open_issues": 613,
+            "open_issues": 614,
             "owner": "valor-software",
             "repo": "ngx-bootstrap",
-            "stars": 5515,
+            "stars": 5514,
             "topics": [
               "angular",
               "bootstrap",
@@ -1117,7 +1117,7 @@
             "open_issues": 30,
             "owner": "denysdovhan",
             "repo": "bash-handbook",
-            "stars": 6084,
+            "stars": 6085,
             "topics": [
               "bash",
               "book",
@@ -1147,7 +1147,7 @@
             "open_issues": 3,
             "owner": "Tyrrrz",
             "repo": "CliWrap",
-            "stars": 4995,
+            "stars": 4996,
             "topics": [
               "cli",
               "command-line",
@@ -1233,11 +1233,11 @@
             "id": 46641250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T13:06:50Z",
-            "open_issues": 209,
+            "last_commit": "2026-09-12T10:52:46Z",
+            "open_issues": 210,
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
-            "stars": 4241,
+            "stars": 4240,
             "topics": [
               "acceptance-testing",
               "bdd",
@@ -1306,7 +1306,7 @@
             "open_issues": 12,
             "owner": "mourner",
             "repo": "suncalc",
-            "stars": 3467,
+            "stars": 3468,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1396,6 +1396,35 @@
         },
         {
           "node_type": "item",
+          "title": "LightBulb",
+          "description": "by Oleksii Holub Reduces eye strain by adjusting gamma based on the current time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Reduces eye strain by adjusting screen gamma based on the current time",
+            "homepage": "https://github.com/Tyrrrz/LightBulb/releases",
+            "id": 78772975,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-09-10T16:57:47Z",
+            "open_issues": 11,
+            "owner": "Tyrrrz",
+            "repo": "LightBulb",
+            "stars": 2778,
+            "topics": [
+              "brightness",
+              "correction",
+              "display",
+              "eye-strain",
+              "gamma",
+              "sunrise",
+              "sunset"
+            ]
+          },
+          "first_seen": "2026-08-28T06:55:02.462Z"
+        },
+        {
+          "node_type": "item",
           "title": "RBush",
           "description": "by Volodymyr Agafonkin RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles",
           "children": [],
@@ -1417,35 +1446,6 @@
               "javascript",
               "r-tree",
               "spatial-index"
-            ]
-          },
-          "first_seen": "2026-08-28T06:55:02.462Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LightBulb",
-          "description": "by Oleksii Holub Reduces eye strain by adjusting gamma based on the current time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Reduces eye strain by adjusting screen gamma based on the current time",
-            "homepage": "https://github.com/Tyrrrz/LightBulb/releases",
-            "id": 78772975,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-09-10T16:57:47Z",
-            "open_issues": 11,
-            "owner": "Tyrrrz",
-            "repo": "LightBulb",
-            "stars": 2772,
-            "topics": [
-              "brightness",
-              "correction",
-              "display",
-              "eye-strain",
-              "gamma",
-              "sunrise",
-              "sunset"
             ]
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1595,7 +1595,7 @@
             "open_issues": 32,
             "owner": "mapbox",
             "repo": "supercluster",
-            "stars": 2367,
+            "stars": 2369,
             "topics": [
               "algorithm",
               "clustering",
@@ -1650,7 +1650,7 @@
             "open_issues": 4,
             "owner": "trekhleb",
             "repo": "nano-neuron",
-            "stars": 2271,
+            "stars": 2272,
             "topics": [
               "artificial-intelligence",
               "javascript",
@@ -1702,7 +1702,7 @@
             "open_issues": 11,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2068,
+            "stars": 2069,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1855,7 +1855,7 @@
             "open_issues": 182,
             "owner": "pypa",
             "repo": "packaging.python.org",
-            "stars": 1667,
+            "stars": 1666,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1904,7 +1904,7 @@
             "open_issues": 5,
             "owner": "Tyrrrz",
             "repo": "CliFx",
-            "stars": 1614,
+            "stars": 1615,
             "topics": [
               "cli",
               "command",
@@ -2537,7 +2537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:04:31.460Z",
+    "last_updated": "2026-09-13T00:57:28.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇺🇦 Curating the best projects that were made and mainly contributed by Ukrainian developers",
