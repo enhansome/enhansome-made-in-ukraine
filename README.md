@@ -25,7 +25,7 @@ If these conditions are met, feel free to open a PR!
 
 ## > 100K ⭐️
 
-* **[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,866 | 🐛 408 | 🌐 JavaScript | 📅 2026-07-26** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
+* **[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,867 | 🐛 408 | 🌐 JavaScript | 📅 2026-07-26** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
   📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 ## > 50K ⭐️
@@ -35,25 +35,25 @@ If these conditions are met, feel free to open a PR!
 
 ## > 10K ⭐️
 
-* **[Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,694 | 🐛 586 | 🌐 JavaScript | 📅 2026-10-02** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,695 | 🐛 588 | 🌐 JavaScript | 📅 2026-10-02** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   🍃 JavaScript library for mobile-friendly interactive maps
 
-* **[Ink](https://github.com/vadimdemedes/ink) ⭐ 40,009 | 🐛 37 | 🌐 TypeScript | 📅 2026-10-01** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
+* **[Ink](https://github.com/vadimdemedes/ink) ⭐ 40,012 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-03** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
   🌈 React for interactive command-line apps
 
 * **[wtfjs: What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) ⭐ 37,684 | 🐛 48 | 🌐 JavaScript | 📅 2026-07-03** by [Denys Dovhan](https://github.com/sponsors/denysdovhan)<br>
   🤪 A list of funny and tricky JavaScript examples
 
-* **[pnpm](https://github.com/pnpm/pnpm) ⭐ 36,731 | 🐛 235 | 🌐 Rust | 📅 2026-10-02** by [Zoltan Kochan](https://github.com/sponsors/zkochan)<br>
+* **[pnpm](https://github.com/pnpm/pnpm) ⭐ 36,733 | 🐛 236 | 🌐 Rust | 📅 2026-10-02** by [Zoltan Kochan](https://github.com/sponsors/zkochan)<br>
   📦🚀 Fast, disk space efficient package manager
 
-* **[Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) ⭐ 35,939 | 🐛 2,096 | 🌐 TypeScript | 📅 2026-10-01** by [Andrii Sherman](https://github.com/sponsors/AndriiSherman) / [Aleksandr Blokh](https://github.com/sponsors/AlexBlokh) / [Dan Kochetov](https://github.com/sponsors/dankochetov)<br>
+* **[Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) ⭐ 35,940 | 🐛 2,098 | 🌐 TypeScript | 📅 2026-10-01** by [Andrii Sherman](https://github.com/sponsors/AndriiSherman) / [Aleksandr Blokh](https://github.com/sponsors/AlexBlokh) / [Dan Kochetov](https://github.com/sponsors/dankochetov)<br>
   TypeScript ORM for SQL databases designed with maximum type safety in mind
 
 * **[AlgoVPN](https://github.com/trailofbits/algo) ⭐ 30,404 | 🐛 86 | 🌐 Python | 📅 2026-10-01** by [Jack Ivanov](https://github.com/sponsors/jackivanov) / [TrailOfBits](https://github.com/sponsors/trailofbits)\
   📝 Set up a personal VPN in the cloud at the push of a button
 
-* **[redoc](https://github.com/Redocly/redoc) ⭐ 25,937 | 🐛 445 | 🌐 TypeScript | 📅 2026-10-02** by [Roman Hotsiy](https://github.com/sponsors/RomanHotsiy)<br>
+* **[redoc](https://github.com/Redocly/redoc) ⭐ 25,938 | 🐛 445 | 🌐 TypeScript | 📅 2026-10-02** by [Roman Hotsiy](https://github.com/sponsors/RomanHotsiy)<br>
   Redoc is an open-source tool for generating documentation from OpenAPI (fka Swagger) definitions.
 
 * **[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) ⭐ 25,267 | 🐛 170 | 🌐 JavaScript | 📅 2025-12-04** by [Dmitry Semenov](https://github.com/sponsors/dimsemenov)<br>
@@ -83,10 +83,10 @@ If these conditions are met, feel free to open a PR!
 * **[Mock Service Worker](https://github.com/mswjs/msw) ⭐ 18,251 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-03** by [Artem Zakharchenko](https://github.com/sponsors/kettanaito)<br />
   Seamless REST/GraphQL API mocking library for browser and Node.js.
 
-* **[Aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,567 | 🐛 215 | 🌐 Python | 📅 2026-10-02** by [Andrew Svetlov](https://github.com/asvetlov) and [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
+* **[Aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,567 | 🐛 217 | 🌐 Python | 📅 2026-10-02** by [Andrew Svetlov](https://github.com/asvetlov) and [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
   Asynchronous HTTP client/server framework for asyncio and Python
 
-* **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) ⭐ 16,346 | 🐛 27 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+* **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) ⭐ 16,345 | 🐛 27 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   Downloads videos and playlists from YouTube.
 
 * **[Chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,243 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-16** by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
@@ -97,7 +97,7 @@ If these conditions are met, feel free to open a PR!
 
 ## > 5K ⭐️
 
-* **[DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) ⭐ 12,119 | 🐛 15 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+* **[DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) ⭐ 12,120 | 🐛 15 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   Exports Discord chat logs to a file.
 
 * **[PlatformIO](https://github.com/platformio/platformio-core) ⭐ 9,498 | 🐛 276 | 🌐 Python | 📅 2026-09-23** by [Ivan Kravets](https://github.com/sponsors/ivankravets) <br>
@@ -118,7 +118,7 @@ If these conditions are met, feel free to open a PR!
 * **[Che](https://github.com/eclipse/che) ⭐ 7,168 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-02** by [Serhii Leshchenko](https://github.com/sponsors/sleshchenko)<br>
   Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
 
-* **[Pixelmatch](https://github.com/mapbox/pixelmatch) ⭐ 6,974 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-15** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Pixelmatch](https://github.com/mapbox/pixelmatch) ⭐ 6,975 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-15** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   The smallest, simplest and fastest JavaScript pixel-level image comparison library
 
 * **[Brunch](https://github.com/brunch/brunch) ⭐ 6,756 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-19** `ARCHIVED` by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
@@ -159,7 +159,7 @@ If these conditions are met, feel free to open a PR!
 * **[YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) ⭐ 3,735 | 🐛 11 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   The ultimate dirty YouTube library (.NET).
 
-* **[SunCalc](https://github.com/mourner/suncalc) ⭐ 3,484 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[SunCalc](https://github.com/mourner/suncalc) ⭐ 3,486 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   A tiny JavaScript library for calculating sun/moon positions and phases.
 
 * **[ES6 Shim](https://github.com/paulmillr/es6-shim) ⚠️ Archived** by [Paul Miller](https://github.com/sponsors/paulmillr)<br>

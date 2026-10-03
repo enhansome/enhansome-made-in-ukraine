@@ -19,7 +19,7 @@
             "open_issues": 408,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196866,
+            "stars": 196867,
             "topics": [
               "algorithm",
               "algorithms",
@@ -82,10 +82,10 @@
             "language": "JavaScript",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-02T10:34:43Z",
-            "open_issues": 586,
+            "open_issues": 588,
             "owner": "Leaflet",
             "repo": "Leaflet",
-            "stars": 45694,
+            "stars": 45695,
             "topics": [
               "javascript",
               "leaflet",
@@ -106,11 +106,11 @@
             "id": 94061307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T11:16:39Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-03T04:42:04Z",
+            "open_issues": 35,
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 40009,
+            "stars": 40012,
             "topics": [
               "cli",
               "command-line",
@@ -165,10 +165,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-02T23:08:07Z",
-            "open_issues": 235,
+            "open_issues": 236,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36731,
+            "stars": 36733,
             "topics": [
               "dependency-manager",
               "install",
@@ -195,10 +195,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T21:26:29Z",
-            "open_issues": 2096,
+            "open_issues": 2098,
             "owner": "drizzle-team",
             "repo": "drizzle-orm",
-            "stars": 35939,
+            "stars": 35940,
             "topics": [
               "bunjs",
               "mysql",
@@ -263,7 +263,7 @@
             "open_issues": 445,
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25937,
+            "stars": 25938,
             "topics": [
               "api-documentation",
               "documentation-generator",
@@ -554,7 +554,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T23:32:05Z",
-            "open_issues": 215,
+            "open_issues": 217,
             "owner": "aio-libs",
             "repo": "aiohttp",
             "stars": 16567,
@@ -587,7 +587,7 @@
             "open_issues": 27,
             "owner": "Tyrrrz",
             "repo": "YoutubeDownloader",
-            "stars": 16346,
+            "stars": 16345,
             "topics": [
               "download",
               "downloader",
@@ -681,7 +681,7 @@
             "open_issues": 15,
             "owner": "Tyrrrz",
             "repo": "DiscordChatExporter",
-            "stars": 12119,
+            "stars": 12120,
             "topics": [
               "archival",
               "archiver",
@@ -900,7 +900,7 @@
             "open_issues": 14,
             "owner": "mapbox",
             "repo": "pixelmatch",
-            "stars": 6974,
+            "stars": 6975,
             "topics": [
               "diff",
               "image-comparison",
@@ -1306,7 +1306,7 @@
             "open_issues": 10,
             "owner": "mourner",
             "repo": "suncalc",
-            "stars": 3484,
+            "stars": 3486,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -2039,7 +2039,7 @@
         {
           "node_type": "item",
           "title": "🇳🇬 made-in-nigeria",
-          "description": null,
+          "description": "acekyd/made-in-nigeria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2065,7 +2065,7 @@
         {
           "node_type": "item",
           "title": "🇯🇵 made-in-japan",
-          "description": null,
+          "description": "suguru03/made-in-japan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2086,7 +2086,7 @@
         {
           "node_type": "item",
           "title": "🇹🇼 made-in-taiwan",
-          "description": null,
+          "description": "hueitan/made-in-taiwan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2113,7 +2113,7 @@
         {
           "node_type": "item",
           "title": "🇧🇩 made-in-bangladesh",
-          "description": null,
+          "description": "made-in-bangladesh/made-in-bangladesh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2141,7 +2141,7 @@
         {
           "node_type": "item",
           "title": "🇧🇷 made-in-brazil",
-          "description": null,
+          "description": "IonicaBizau/made-in-brazil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2164,7 +2164,7 @@
         {
           "node_type": "item",
           "title": "🇷🇴 made-in-romania",
-          "description": null,
+          "description": "IonicaBizau/made-in-romania",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2187,7 +2187,7 @@
         {
           "node_type": "item",
           "title": "🇮🇩 made-in-indonesia",
-          "description": null,
+          "description": "rujukan/made-in-indonesia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2217,7 +2217,7 @@
         {
           "node_type": "item",
           "title": "🇮🇳 made-in-india",
-          "description": null,
+          "description": "IonicaBizau/made-in-india",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2240,7 +2240,7 @@
         {
           "node_type": "item",
           "title": "🇹🇷 made-in-turkey",
-          "description": null,
+          "description": "IonicaBizau/made-in-turkey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2263,7 +2263,7 @@
         {
           "node_type": "item",
           "title": "🇰🇷 made-in-korea",
-          "description": null,
+          "description": "738/made-in-korea",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2291,7 +2291,7 @@
         {
           "node_type": "item",
           "title": "🇬🇭 made-in-ghana",
-          "description": null,
+          "description": "devcongress/made-in-ghana",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2317,7 +2317,7 @@
         {
           "node_type": "item",
           "title": "🇿🇲 made-in-zambia",
-          "description": null,
+          "description": "ZambianTech/made-in-zambia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2344,7 +2344,7 @@
         {
           "node_type": "item",
           "title": "🇵🇱 made-in-poland",
-          "description": null,
+          "description": "IonicaBizau/made-in-poland",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2367,7 +2367,7 @@
         {
           "node_type": "item",
           "title": "🇧🇦 made-in-bosnia",
-          "description": null,
+          "description": "IonicaBizau/made-in-bosnia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2390,7 +2390,7 @@
         {
           "node_type": "item",
           "title": "🇧🇯 made-in-benin",
-          "description": null,
+          "description": "olivsinz/made-in-benin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2415,7 +2415,7 @@
         {
           "node_type": "item",
           "title": "🇦🇹 made-in-austria",
-          "description": null,
+          "description": "IonicaBizau/made-in-austria",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2438,7 +2438,7 @@
         {
           "node_type": "item",
           "title": "🇨🇴 made-in-colombia",
-          "description": null,
+          "description": "IonicaBizau/made-in-colombia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2461,7 +2461,7 @@
         {
           "node_type": "item",
           "title": "🇱🇻 made-in-latvia",
-          "description": null,
+          "description": "ummahusla/Made-in-Latvia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2485,7 +2485,7 @@
         {
           "node_type": "item",
           "title": "🇲🇺 made-in-mauritius",
-          "description": null,
+          "description": "Humeira/made-in-Mauritius",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2510,7 +2510,7 @@
         {
           "node_type": "item",
           "title": "🇸🇳 made-in-senegal",
-          "description": null,
+          "description": "JoloffCode/made-in-senegal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2533,7 +2533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:54:46.439Z",
+    "last_updated": "2026-10-03T04:54:52.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇺🇦 Curating the best projects that were made and mainly contributed by Ukrainian developers",
