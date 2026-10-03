@@ -25,50 +25,50 @@ If these conditions are met, feel free to open a PR!
 
 ## > 100K ⭐️
 
-* **[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,869 | 🐛 408 | 🌐 JavaScript | 📅 2026-07-26** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
+* **[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,866 | 🐛 408 | 🌐 JavaScript | 📅 2026-07-26** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
   📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 ## > 50K ⭐️
 
-* **[Ansible](https://github.com/ansible/ansible) ⭐ 70,822 | 🐛 865 | 🌐 Python | 📅 2026-09-30** co-maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz) as a part of the Code Dev Team at [Red Hat](https://redhat.com)<br>
+* **[Ansible](https://github.com/ansible/ansible) ⭐ 70,834 | 🐛 863 | 🌐 Python | 📅 2026-10-02** co-maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz) as a part of the Code Dev Team at [Red Hat](https://redhat.com)<br>
   Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain.
 
 ## > 10K ⭐️
 
-* **[Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,690 | 🐛 584 | 🌐 JavaScript | 📅 2026-09-28** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,694 | 🐛 586 | 🌐 JavaScript | 📅 2026-10-02** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   🍃 JavaScript library for mobile-friendly interactive maps
 
-* **[Ink](https://github.com/vadimdemedes/ink) ⭐ 40,000 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-01** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
+* **[Ink](https://github.com/vadimdemedes/ink) ⭐ 40,009 | 🐛 37 | 🌐 TypeScript | 📅 2026-10-01** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
   🌈 React for interactive command-line apps
 
-* **[wtfjs: What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) ⭐ 37,685 | 🐛 48 | 🌐 JavaScript | 📅 2026-07-03** by [Denys Dovhan](https://github.com/sponsors/denysdovhan)<br>
+* **[wtfjs: What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs) ⭐ 37,684 | 🐛 48 | 🌐 JavaScript | 📅 2026-07-03** by [Denys Dovhan](https://github.com/sponsors/denysdovhan)<br>
   🤪 A list of funny and tricky JavaScript examples
 
-* **[pnpm](https://github.com/pnpm/pnpm) ⭐ 36,724 | 🐛 231 | 🌐 Rust | 📅 2026-10-02** by [Zoltan Kochan](https://github.com/sponsors/zkochan)<br>
+* **[pnpm](https://github.com/pnpm/pnpm) ⭐ 36,731 | 🐛 235 | 🌐 Rust | 📅 2026-10-02** by [Zoltan Kochan](https://github.com/sponsors/zkochan)<br>
   📦🚀 Fast, disk space efficient package manager
 
-* **[Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) ⭐ 35,931 | 🐛 2,096 | 🌐 TypeScript | 📅 2026-10-01** by [Andrii Sherman](https://github.com/sponsors/AndriiSherman) / [Aleksandr Blokh](https://github.com/sponsors/AlexBlokh) / [Dan Kochetov](https://github.com/sponsors/dankochetov)<br>
+* **[Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) ⭐ 35,939 | 🐛 2,096 | 🌐 TypeScript | 📅 2026-10-01** by [Andrii Sherman](https://github.com/sponsors/AndriiSherman) / [Aleksandr Blokh](https://github.com/sponsors/AlexBlokh) / [Dan Kochetov](https://github.com/sponsors/dankochetov)<br>
   TypeScript ORM for SQL databases designed with maximum type safety in mind
 
-* **[AlgoVPN](https://github.com/trailofbits/algo) ⭐ 30,402 | 🐛 85 | 🌐 Python | 📅 2026-10-01** by [Jack Ivanov](https://github.com/sponsors/jackivanov) / [TrailOfBits](https://github.com/sponsors/trailofbits)\
+* **[AlgoVPN](https://github.com/trailofbits/algo) ⭐ 30,404 | 🐛 86 | 🌐 Python | 📅 2026-10-01** by [Jack Ivanov](https://github.com/sponsors/jackivanov) / [TrailOfBits](https://github.com/sponsors/trailofbits)\
   📝 Set up a personal VPN in the cloud at the push of a button
 
-* **[redoc](https://github.com/Redocly/redoc) ⭐ 25,938 | 🐛 445 | 🌐 TypeScript | 📅 2026-09-30** by [Roman Hotsiy](https://github.com/sponsors/RomanHotsiy)<br>
+* **[redoc](https://github.com/Redocly/redoc) ⭐ 25,937 | 🐛 445 | 🌐 TypeScript | 📅 2026-10-02** by [Roman Hotsiy](https://github.com/sponsors/RomanHotsiy)<br>
   Redoc is an open-source tool for generating documentation from OpenAPI (fka Swagger) definitions.
 
-* **[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) ⭐ 25,266 | 🐛 170 | 🌐 JavaScript | 📅 2025-12-04** by [Dmitry Semenov](https://github.com/sponsors/dimsemenov)<br>
+* **[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) ⭐ 25,267 | 🐛 170 | 🌐 JavaScript | 📅 2025-12-04** by [Dmitry Semenov](https://github.com/sponsors/dimsemenov)<br>
   🖼 JavaScript image gallery
 
-* **[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) ⭐ 24,809 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2025-11-23** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
+* **[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) ⭐ 24,806 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2025-11-23** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
   🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
 * **[Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) ⭐ 23,230 | 🐛 70 | 🌐 C++ | 📅 2024-07-10** by [Igor Malinovskiy](https://github.com/sponsors/uglide)<br>
   Cross-platform GUI management tool for Redis
 
-* **[react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) ⭐ 22,602 | 🐛 238 | 🌐 TypeScript | 📅 2026-10-01** by [Alexander Shemetovskiy](https://github.com/sponsors/alexkval)<br>
+* **[react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) ⭐ 22,601 | 🐛 238 | 🌐 TypeScript | 📅 2026-10-02** by [Alexander Shemetovskiy](https://github.com/sponsors/alexkval)<br>
   ✈️ Bootstrap components built with React.
 
-* **[AVA](https://github.com/avajs/ava) ⭐ 20,823 | 🐛 82 | 🌐 JavaScript | 📅 2026-06-17** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
+* **[AVA](https://github.com/avajs/ava) ⭐ 20,822 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-17** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
   Node.js test runner that lets you develop with confidence 🚀
 
 * **[Spaceship ZSH](https://github.com/denysdovhan/spaceship-prompt) ⭐ 20,579 | 🐛 130 | 🌐 Shell | 📅 2026-09-02** by [Denys Dovhan](https://github.com/sponsors/denysdovhan)<br>
@@ -77,36 +77,36 @@ If these conditions are met, feel free to open a PR!
 * **[graphql-js](https://github.com/graphql/graphql-js) ⭐ 20,345 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-28** maintained by [Ivan Goncharov](https://github.com/sponsors/IvanGoncharov)<br>
   A reference implementation of GraphQL for JavaScript.
 
-* **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,337 | 🐛 43 | 🌐 Python | 📅 2026-04-06** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
+* **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python) ⭐ 18,336 | 🐛 43 | 🌐 Python | 📅 2026-04-06** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
   📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 
-* **[Mock Service Worker](https://github.com/mswjs/msw) ⭐ 18,247 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-30** by [Artem Zakharchenko](https://github.com/sponsors/kettanaito)<br />
+* **[Mock Service Worker](https://github.com/mswjs/msw) ⭐ 18,251 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-03** by [Artem Zakharchenko](https://github.com/sponsors/kettanaito)<br />
   Seamless REST/GraphQL API mocking library for browser and Node.js.
 
-* **[Aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,566 | 🐛 244 | 🌐 Python | 📅 2026-10-01** by [Andrew Svetlov](https://github.com/asvetlov) and [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
+* **[Aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,567 | 🐛 215 | 🌐 Python | 📅 2026-10-02** by [Andrew Svetlov](https://github.com/asvetlov) and [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
   Asynchronous HTTP client/server framework for asyncio and Python
 
-* **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) ⭐ 16,336 | 🐛 28 | 🌐 C# | 📅 2026-10-01** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+* **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) ⭐ 16,346 | 🐛 27 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   Downloads videos and playlists from YouTube.
 
-* **[Chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,243 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-16** by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
+* **[Chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,243 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-16** by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
   An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
 
-* **[Resilience4J](https://github.com/resilience4j/resilience4j) ⭐ 10,771 | 🐛 317 | 🌐 Java | 📅 2026-09-23** by [Bohdan Storohuk](https://github.com/sponsors/storozhukBM)<br>
+* **[Resilience4J](https://github.com/resilience4j/resilience4j) ⭐ 10,771 | 🐛 318 | 🌐 Java | 📅 2026-09-23** by [Bohdan Storohuk](https://github.com/sponsors/storozhukBM)<br>
   Fault tolerance library for Java
 
 ## > 5K ⭐️
 
-* **[DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) ⭐ 12,116 | 🐛 18 | 🌐 C# | 📅 2026-10-01** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+* **[DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) ⭐ 12,119 | 🐛 15 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   Exports Discord chat logs to a file.
 
-* **[PlatformIO](https://github.com/platformio/platformio-core) ⭐ 9,496 | 🐛 276 | 🌐 Python | 📅 2026-09-23** by [Ivan Kravets](https://github.com/sponsors/ivankravets) <br>
+* **[PlatformIO](https://github.com/platformio/platformio-core) ⭐ 9,498 | 🐛 276 | 🌐 Python | 📅 2026-09-23** by [Ivan Kravets](https://github.com/sponsors/ivankravets) <br>
   PlatformIO is a professional collaborative platform for embedded development
 
-* **[django-ninja](https://github.com/vitalik/django-ninja) ⭐ 9,204 | 🐛 224 | 🌐 Python | 📅 2026-09-27** by [Vitaliy Kucheryaviy](https://github.com/sponsors/vitalik)<br>
+* **[django-ninja](https://github.com/vitalik/django-ninja) ⭐ 9,204 | 🐛 225 | 🌐 Python | 📅 2026-09-27** by [Vitaliy Kucheryaviy](https://github.com/sponsors/vitalik)<br>
   🥷 Fast, Async-ready, Openapi, type hints based framework for building REST APIs.
 
-* **[Wasm3](https://github.com/wasm3/wasm3) ⭐ 8,035 | 🐛 18 | 🌐 C | 📅 2026-09-30** by [Volodymyr Shymanskyy](https://github.com/sponsors/vshymanskyy)<br>
+* **[Wasm3](https://github.com/wasm3/wasm3) ⭐ 8,037 | 🐛 18 | 🌐 C | 📅 2026-09-30** by [Volodymyr Shymanskyy](https://github.com/sponsors/vshymanskyy)<br>
   🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
 
 * **[FSNotes](https://github.com/glushchenko/fsnotes) ⭐ 7,515 | 🐛 2 | 🌐 Swift | 📅 2026-09-20** by [Oleksandr Glushchenko](https://github.com/sponsors/glushchenko) <br>
@@ -115,7 +115,7 @@ If these conditions are met, feel free to open a PR!
 * **[Clusterize.js](https://github.com/NeXTs/Clusterize.js) ⭐ 7,265 | 🐛 56 | 🌐 JavaScript | 📅 2026-06-15** by [Denys Lukov](https://github.com/sponsors/NeXTs)<br />
   Tiny vanilla JS plugin to display large data sets easily
 
-* **[Che](https://github.com/eclipse/che) ⭐ 7,168 | 🐛 189 | 🌐 TypeScript | 📅 2026-10-01** by [Serhii Leshchenko](https://github.com/sponsors/sleshchenko)<br>
+* **[Che](https://github.com/eclipse/che) ⭐ 7,168 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-02** by [Serhii Leshchenko](https://github.com/sponsors/sleshchenko)<br>
   Eclipse Che: Next-generation Eclipse IDE. Open source workspace server and cloud IDE.
 
 * **[Pixelmatch](https://github.com/mapbox/pixelmatch) ⭐ 6,974 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-15** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
@@ -124,16 +124,16 @@ If these conditions are met, feel free to open a PR!
 * **[Brunch](https://github.com/brunch/brunch) ⭐ 6,756 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-19** `ARCHIVED` by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
   🍴 An opinionated developer-friendly build tool for modern front-end apps
 
-* **[jscpd](https://github.com/kucherenko/jscpd) ⭐ 6,319 | 🐛 39 | 🌐 Rust | 📅 2026-10-01** by [Andrey Kucherenko](https://github.com/sponsors/kucherenko)<br>
+* **[jscpd](https://github.com/kucherenko/jscpd) ⭐ 6,328 | 🐛 41 | 🌐 Rust | 📅 2026-10-02** by [Andrey Kucherenko](https://github.com/sponsors/kucherenko)<br>
   Copy/paste detector for programming source code.
 
-* **[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) ⭐ 5,746 | 🐛 26 | 🌐 Java | 📅 2026-06-29** by [Dmytro Danylyk](https://github.com/sponsors/dmytrodanylyk)<br>
+* **[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) ⭐ 5,745 | 🐛 26 | 🌐 Java | 📅 2026-06-29** by [Dmytro Danylyk](https://github.com/sponsors/dmytrodanylyk)<br>
   Android Circular Progress Button
 
-* **[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) ⭐ 5,513 | 🐛 616 | 🌐 TypeScript | 📅 2026-08-17** by [Dmitriy Shekhovtsov](https://github.com/sponsors/valorkin)<br>
+* **[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) ⭐ 5,511 | 🐛 616 | 🌐 TypeScript | 📅 2026-08-17** by [Dmitriy Shekhovtsov](https://github.com/sponsors/valorkin)<br>
   Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
 
-* **[MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,358 | 🐛 144 | 🌐 Swift | 📅 2026-09-21** by [Andrii Leitsius](https://github.com/sponsors/leits)<br>
+* **[MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,361 | 🐛 144 | 🌐 Swift | 📅 2026-09-21** by [Andrii Leitsius](https://github.com/sponsors/leits)<br>
   MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
 
 * **[nestjsx/crud](https://github.com/nestjsx/crud) ⭐ 4,322 | 🐛 290 | 🌐 TypeScript | 📅 2026-09-08** by [Micheal Yali](https://github.com/sponsors/zMotivat0r)<br />
@@ -144,43 +144,43 @@ If these conditions are met, feel free to open a PR!
 * **[bash-handbook](https://github.com/denysdovhan/bash-handbook) ⭐ 6,079 | 🐛 30 | 🌐 JavaScript | 📅 2024-02-05** by [Denys Dovhan](https://github.com/sponsors/denysdovhan)<br>
   📖 For those who wanna learn Bash
 
-* **[CliWrap](https://github.com/Tyrrrz/CliWrap) ⭐ 5,001 | 🐛 4 | 🌐 C# | 📅 2026-10-01** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+* **[CliWrap](https://github.com/Tyrrrz/CliWrap) ⭐ 5,001 | 🐛 3 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   Library for running command line processes (.NET).
 
-* **[Codeception](https://github.com/Codeception/Codeception) ⭐ 4,858 | 🐛 168 | 🌐 PHP | 📅 2026-09-25** by [Michael Bodnarchuk](https://github.com/sponsors/DavertMik)<br>
+* **[Codeception](https://github.com/Codeception/Codeception) ⭐ 4,858 | 🐛 170 | 🌐 PHP | 📅 2026-09-25** by [Michael Bodnarchuk](https://github.com/sponsors/DavertMik)<br>
   Full-stack testing PHP framework
 
 * **[tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) ⭐ 4,267 | 🐛 40 | 🌐 JavaScript | 📅 2025-04-14** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
   🦎 Use Tailwind CSS in React Native projects
 
-* **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS) ⭐ 4,242 | 🐛 203 | 🌐 JavaScript | 📅 2026-10-01** by [Michael Bodnarchuk](https://github.com/sponsors/DavertMik)<br>
+* **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS) ⭐ 4,242 | 🐛 204 | 🌐 JavaScript | 📅 2026-10-03** by [Michael Bodnarchuk](https://github.com/sponsors/DavertMik)<br>
   Supercharged End 2 End Testing Framework for NodeJS
 
-* **[YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) ⭐ 3,735 | 🐛 12 | 🌐 C# | 📅 2026-10-01** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+* **[YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) ⭐ 3,735 | 🐛 11 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   The ultimate dirty YouTube library (.NET).
 
 * **[SunCalc](https://github.com/mourner/suncalc) ⭐ 3,484 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   A tiny JavaScript library for calculating sun/moon positions and phases.
 
-* **[ES6 Shim](https://github.com/paulmillr/es6-shim) ⭐ 3,099 | 🐛 14 | 🌐 JavaScript | 📅 2026-04-16** by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
+* **[ES6 Shim](https://github.com/paulmillr/es6-shim) ⚠️ Archived** by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
   ECMAScript 6 compatibility shims for legacy JS engines
 
 * **[Vite Electron Builder Boilerplate](https://github.com/cawa-93/vite-electron-builder) ⭐ 2,991 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-03** by [Alex Kozack](https://github.com/sponsors/cawa-93)<br>
   Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 
-* **[android-progress-button](https://github.com/dmytrodanylyk/android-process-button) ⭐ 2,975 | 🐛 27 | 🌐 Java | 📅 2018-08-28** by [Dmytro Danylyk](https://github.com/sponsors/dmytrodanylyk)<br>
+* **[android-progress-button](https://github.com/dmytrodanylyk/android-process-button) ⭐ 2,974 | 🐛 27 | 🌐 Java | 📅 2018-08-28** by [Dmytro Danylyk](https://github.com/sponsors/dmytrodanylyk)<br>
   Android Buttons With Built-in Progress Meters.
 
-* **[LightBulb](https://github.com/Tyrrrz/LightBulb) ⭐ 2,801 | 🐛 13 | 🌐 C# | 📅 2026-10-01** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+* **[LightBulb](https://github.com/Tyrrrz/LightBulb) ⭐ 2,800 | 🐛 11 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   Reduces eye strain by adjusting gamma based on the current time.
 
-* **[RBush](https://github.com/mourner/rbush) ⭐ 2,782 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-03** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[RBush](https://github.com/mourner/rbush) ⭐ 2,783 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-02** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 
 * **[Jets.js](https://github.com/NeXTs/Jets.js) ⭐ 2,770 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-11** by [Denys Lukov](https://github.com/sponsors/NeXTs)<br />
   Native CSS search engine
 
-* **[Delaunator](https://github.com/mapbox/delaunator) ⭐ 2,624 | 🐛 5 | 🌐 JavaScript | 📅 2026-06-24** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[Delaunator](https://github.com/mapbox/delaunator) ⭐ 2,624 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-24** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   An incredibly fast JavaScript library for Delaunay triangulation of 2D points
 
 * **[Earcut](https://github.com/mapbox/earcut) ⭐ 2,593 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
@@ -192,7 +192,7 @@ If these conditions are met, feel free to open a PR!
 * **[Simplify.js](https://github.com/mourner/simplify-js) ⭐ 2,393 | 🐛 8 | 🌐 JavaScript | 📅 2022-11-14** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   High-performance JavaScript polyline simplification library
 
-* **[SuperCluster](https://github.com/mapbox/supercluster) ⭐ 2,382 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-03** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
+* **[SuperCluster](https://github.com/mapbox/supercluster) ⭐ 2,381 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-03** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   A very fast geospatial point clustering library for browsers and Node
 
 * **[Material-UI pickers](https://github.com/mui-org/material-ui-pickers) ⚠️ Archived** `ARCHIVED` by [Dmitriy Kovalenko](https://github.com/sponsors/dmtrKovalenko) <br>
@@ -219,19 +219,19 @@ If these conditions are met, feel free to open a PR!
 * **[shadow-layout](https://github.com/dmytrodanylyk/shadow-layout) ⭐ 1,773 | 🐛 11 | 🌐 Java | 📅 2020-10-02** by [Dmytro Danylyk](https://github.com/sponsors/dmytrodanylyk)<br>
   Android Shadow Layout
 
-* **[picocolors](https://github.com/alexeyraspopov/picocolors) ⭐ 1,754 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-18** by [Oleksii Raspopov](https://github.com/alexeyraspopov)<br>
+* **[picocolors](https://github.com/alexeyraspopov/picocolors) ⭐ 1,753 | 🐛 17 | 🌐 JavaScript | 📅 2024-11-18** by [Oleksii Raspopov](https://github.com/alexeyraspopov)<br>
   The tiniest and the fastest library for terminal output formatting with ANSI colors.
 
-* **[PyPUG](https://github.com/pypa/packaging.python.org) ⭐ 1,674 | 🐛 193 | 🌐 Python | 📅 2026-10-01** co-maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz) as a part of PyPA<br>
+* **[PyPUG](https://github.com/pypa/packaging.python.org) ⭐ 1,674 | 🐛 191 | 🌐 Python | 📅 2026-10-02** co-maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz) as a part of PyPA<br>
   The "Python Packaging User Guide" (PyPUG) aims to be the authoritative resource on how to package and install distributions in Python using current tools.
 
 * **[FlameBearer](https://github.com/mapbox/flamebearer) ⭐ 1,660 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-27** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   Blazing fast flame graph tool for V8 and Node 🔥
 
-* **[CliFx](https://github.com/Tyrrrz/CliFx) ⭐ 1,616 | 🐛 4 | 🌐 C# | 📅 2026-10-01** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+* **[CliFx](https://github.com/Tyrrrz/CliFx) ⭐ 1,616 | 🐛 3 | 🌐 C# | 📅 2026-10-02** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   Declarative framework for building command line interfaces (.NET).
 
-* **[#StandWithUkraine banner for GitHub repos](https://github.com/vshymanskyy/StandWithUkraine) ⭐ 1,549 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-05** by [Volodymyr Shymanskyy](https://github.com/sponsors/vshymanskyy), [Volodymyr Agafonkin](https://github.com/sponsors/mourner) and [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
+* **[#StandWithUkraine banner for GitHub repos](https://github.com/vshymanskyy/StandWithUkraine) ⭐ 1,549 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-05** by [Volodymyr Shymanskyy](https://github.com/sponsors/vshymanskyy), [Volodymyr Agafonkin](https://github.com/sponsors/mourner) and [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
   This repository contains Readme Banners (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation.
 
 * **[folding-plugin](https://github.com/dmytrodanylyk/folding-plugin) ⭐ 1,510 | 🐛 13 | 🌐 Java | 📅 2015-11-14** by [Dmytro Danylyk](https://github.com/sponsors/dmytrodanylyk)<br>
@@ -289,4 +289,4 @@ If these conditions are met, feel free to open a PR!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
