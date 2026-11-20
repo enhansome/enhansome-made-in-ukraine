@@ -19,7 +19,7 @@
             "open_issues": 440,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196740,
+            "stars": 196753,
             "topics": [
               "algorithm",
               "algorithms",
@@ -51,11 +51,11 @@
             "id": 3638964,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T01:56:00Z",
-            "open_issues": 887,
+            "last_commit": "2026-11-19T21:15:12Z",
+            "open_issues": 880,
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 71464,
+            "stars": 71519,
             "topics": [
               "ansible",
               "python"
@@ -81,11 +81,11 @@
             "id": 931135,
             "language": "JavaScript",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-18T20:32:10Z",
-            "open_issues": 217,
+            "last_commit": "2026-11-19T12:49:23Z",
+            "open_issues": 214,
             "owner": "Leaflet",
             "repo": "Leaflet",
-            "stars": 45953,
+            "stars": 45957,
             "topics": [
               "javascript",
               "leaflet",
@@ -106,11 +106,11 @@
             "id": 94061307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T18:20:20Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-19T07:50:13Z",
+            "open_issues": 33,
             "owner": "vadimdemedes",
             "repo": "ink",
-            "stars": 40302,
+            "stars": 40306,
             "topics": [
               "cli",
               "command-line",
@@ -138,7 +138,7 @@
             "open_issues": 51,
             "owner": "denysdovhan",
             "repo": "wtfjs",
-            "stars": 37694,
+            "stars": 37691,
             "topics": [
               "book",
               "handbook",
@@ -164,11 +164,11 @@
             "id": 50565430,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-19T03:15:27Z",
-            "open_issues": 175,
+            "last_commit": "2026-11-20T03:54:52Z",
+            "open_issues": 121,
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 37126,
+            "stars": 37143,
             "topics": [
               "dependency-manager",
               "install",
@@ -194,11 +194,11 @@
             "id": 379865325,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T19:41:17Z",
-            "open_issues": 2062,
+            "last_commit": "2026-11-19T17:54:52Z",
+            "open_issues": 2061,
             "owner": "drizzle-team",
             "repo": "drizzle-orm",
-            "stars": 36298,
+            "stars": 36319,
             "topics": [
               "bunjs",
               "mysql",
@@ -230,7 +230,7 @@
             "open_issues": 71,
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30478,
+            "stars": 30476,
             "topics": [
               "ansible",
               "encryption",
@@ -259,8 +259,8 @@
             "id": 45250726,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T15:04:36Z",
-            "open_issues": 282,
+            "last_commit": "2026-11-19T11:11:41Z",
+            "open_issues": 271,
             "owner": "Redocly",
             "repo": "redoc",
             "stars": 26020,
@@ -296,7 +296,7 @@
             "open_issues": 173,
             "owner": "dimsemenov",
             "repo": "PhotoSwipe",
-            "stars": 25309,
+            "stars": 25311,
             "topics": [
               "gallery",
               "image",
@@ -322,7 +322,7 @@
             "open_issues": 30,
             "owner": "trekhleb",
             "repo": "homemade-machine-learning",
-            "stars": 24861,
+            "stars": 24862,
             "topics": [
               "algorithm",
               "jupyter",
@@ -351,7 +351,7 @@
             "open_issues": 69,
             "owner": "redis",
             "repo": "RedisDesktopManager",
-            "stars": 23217,
+            "stars": 23216,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -368,11 +368,11 @@
             "id": 15480067,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T06:05:58Z",
+            "last_commit": "2026-11-19T07:08:03Z",
             "open_issues": 185,
             "owner": "react-bootstrap",
             "repo": "react-bootstrap",
-            "stars": 22616,
+            "stars": 22615,
             "topics": [
               "bootstrap",
               "hacktoberfest",
@@ -400,7 +400,7 @@
             "open_issues": 64,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20827,
+            "stars": 20826,
             "topics": [
               "assert",
               "async",
@@ -440,7 +440,7 @@
             "open_issues": 131,
             "owner": "spaceship-prompt",
             "repo": "spaceship-prompt",
-            "stars": 20608,
+            "stars": 20611,
             "topics": [
               "oh-my-zsh",
               "prompt",
@@ -469,10 +469,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-10T05:30:42Z",
-            "open_issues": 117,
+            "open_issues": 119,
             "owner": "graphql",
             "repo": "graphql-js",
-            "stars": 20344,
+            "stars": 20350,
             "topics": [
               "graphql",
               "graphql-js"
@@ -496,7 +496,7 @@
             "open_issues": 44,
             "owner": "trekhleb",
             "repo": "learn-python",
-            "stars": 18563,
+            "stars": 18567,
             "topics": [
               "learning",
               "learning-by-doing",
@@ -557,7 +557,7 @@
             "open_issues": 13,
             "owner": "Tyrrrz",
             "repo": "YoutubeDownloader",
-            "stars": 16759,
+            "stars": 16762,
             "topics": [
               "download",
               "downloader",
@@ -585,11 +585,11 @@
             "id": 13258039,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T15:42:10Z",
-            "open_issues": 325,
+            "last_commit": "2026-11-19T11:08:43Z",
+            "open_issues": 330,
             "owner": "aio-libs",
             "repo": "aiohttp",
-            "stars": 16609,
+            "stars": 16620,
             "topics": [
               "aiohttp",
               "async",
@@ -616,10 +616,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-06T12:02:27Z",
-            "open_issues": 7,
+            "open_issues": 9,
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12272,
+            "stars": 12270,
             "topics": [
               "chokidar",
               "filesystem",
@@ -644,7 +644,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T08:19:21Z",
-            "open_issues": 365,
+            "open_issues": 364,
             "owner": "resilience4j",
             "repo": "resilience4j",
             "stars": 10809,
@@ -681,7 +681,7 @@
             "open_issues": 13,
             "owner": "Tyrrrz",
             "repo": "DiscordChatExporter",
-            "stars": 12409,
+            "stars": 12416,
             "topics": [
               "archival",
               "archiver",
@@ -707,10 +707,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T10:22:57Z",
-            "open_issues": 290,
+            "open_issues": 289,
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9614,
+            "stars": 9617,
             "topics": [
               "arduino",
               "arm",
@@ -749,10 +749,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-17T12:36:08Z",
-            "open_issues": 159,
+            "open_issues": 161,
             "owner": "vitalik",
             "repo": "django-ninja",
-            "stars": 9249,
+            "stars": 9250,
             "topics": [
               "django",
               "django-ninja",
@@ -782,7 +782,7 @@
             "open_issues": 21,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8091,
+            "stars": 8090,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -817,7 +817,7 @@
             "open_issues": 2,
             "owner": "glushchenko",
             "repo": "fsnotes",
-            "stars": 7582,
+            "stars": 7581,
             "topics": [
               "ios",
               "macos",
@@ -846,7 +846,7 @@
             "open_issues": 56,
             "owner": "NeXTs",
             "repo": "Clusterize.js",
-            "stars": 7270,
+            "stars": 7269,
             "topics": [
               "listview",
               "performance",
@@ -868,10 +868,10 @@
             "language": "TypeScript",
             "license": "EPL-2.0",
             "last_commit": "2026-11-17T15:28:34Z",
-            "open_issues": 198,
+            "open_issues": 197,
             "owner": "eclipse-che",
             "repo": "che",
-            "stars": 7175,
+            "stars": 7174,
             "topics": [
               "cloud",
               "cloud-ide",
@@ -900,7 +900,7 @@
             "open_issues": 6,
             "owner": "mapbox",
             "repo": "pixelmatch",
-            "stars": 7027,
+            "stars": 7025,
             "topics": [
               "diff",
               "image-comparison",
@@ -925,7 +925,7 @@
             "open_issues": 0,
             "owner": "brunch",
             "repo": "brunch",
-            "stars": 6754,
+            "stars": 6753,
             "topics": [
               "brunch",
               "build-automation",
@@ -948,11 +948,11 @@
             "id": 10353211,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-18T09:26:11Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-20T03:47:12Z",
+            "open_issues": 68,
             "owner": "kucherenko",
             "repo": "jscpd",
-            "stars": 6579,
+            "stars": 6585,
             "topics": [
               "ai",
               "cli",
@@ -1011,11 +1011,11 @@
             "id": 40403310,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-17T14:08:31Z",
+            "last_commit": "2026-11-19T15:41:52Z",
             "open_issues": 621,
             "owner": "valor-software",
             "repo": "ngx-bootstrap",
-            "stars": 5512,
+            "stars": 5511,
             "topics": [
               "angular",
               "bootstrap",
@@ -1082,7 +1082,7 @@
             "open_issues": 289,
             "owner": "nestjsx",
             "repo": "crud",
-            "stars": 4319,
+            "stars": 4318,
             "topics": [
               "crud",
               "crud-generator",
@@ -1117,7 +1117,7 @@
             "open_issues": 30,
             "owner": "denysdovhan",
             "repo": "bash-handbook",
-            "stars": 6090,
+            "stars": 6089,
             "topics": [
               "bash",
               "book",
@@ -1147,7 +1147,7 @@
             "open_issues": 4,
             "owner": "Tyrrrz",
             "repo": "CliWrap",
-            "stars": 5014,
+            "stars": 5013,
             "topics": [
               "cli",
               "command-line",
@@ -1180,8 +1180,8 @@
             "id": 2880469,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-18T17:40:18Z",
-            "open_issues": 165,
+            "last_commit": "2026-11-19T06:58:57Z",
+            "open_issues": 167,
             "owner": "Codeception",
             "repo": "Codeception",
             "stars": 4852,
@@ -1233,11 +1233,11 @@
             "id": 46641250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T19:34:03Z",
+            "last_commit": "2026-11-19T09:50:38Z",
             "open_issues": 179,
             "owner": "codeceptjs",
             "repo": "CodeceptJS",
-            "stars": 4254,
+            "stars": 4253,
             "topics": [
               "acceptance-testing",
               "bdd",
@@ -1276,7 +1276,7 @@
             "open_issues": 6,
             "owner": "Tyrrrz",
             "repo": "YoutubeExplode",
-            "stars": 3755,
+            "stars": 3756,
             "topics": [
               "dotnet",
               "dotnet-core",
@@ -1327,7 +1327,7 @@
             "open_issues": 0,
             "owner": "paulmillr",
             "repo": "es6-shim",
-            "stars": 3092,
+            "stars": 3091,
             "topics": [
               "ecmascript",
               "ecmascript6",
@@ -1353,7 +1353,7 @@
             "open_issues": 8,
             "owner": "cawa-93",
             "repo": "vite-electron-builder",
-            "stars": 2989,
+            "stars": 2988,
             "topics": [
               "best-practices",
               "boilerplate",
@@ -1389,7 +1389,7 @@
             "open_issues": 27,
             "owner": "dmytrodanylyk",
             "repo": "android-process-button",
-            "stars": 2972,
+            "stars": 2971,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1410,7 +1410,7 @@
             "open_issues": 5,
             "owner": "Tyrrrz",
             "repo": "LightBulb",
-            "stars": 2826,
+            "stars": 2827,
             "topics": [
               "brightness",
               "correction",
@@ -1439,7 +1439,7 @@
             "open_issues": 13,
             "owner": "mourner",
             "repo": "rbush",
-            "stars": 2790,
+            "stars": 2789,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1519,7 +1519,7 @@
             "open_issues": 2,
             "owner": "mapbox",
             "repo": "earcut",
-            "stars": 2631,
+            "stars": 2630,
             "topics": [
               "algorithm",
               "computational-geometry",
@@ -1548,12 +1548,39 @@
             "open_issues": 19,
             "owner": "vadimdemedes",
             "repo": "pastel",
-            "stars": 2412,
+            "stars": 2411,
             "topics": [
               "cli",
               "command-line",
               "ink",
               "react"
+            ]
+          },
+          "first_seen": "2026-08-28T06:55:02.462Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SuperCluster",
+          "description": "by Volodymyr Agafonkin A very fast geospatial point clustering library for browsers and Node",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A very fast geospatial point clustering library for browsers and Node.",
+            "homepage": null,
+            "id": 47860620,
+            "language": "JavaScript",
+            "license": "ISC",
+            "last_commit": "2026-09-03T08:35:00Z",
+            "open_issues": 33,
+            "owner": "mapbox",
+            "repo": "supercluster",
+            "stars": 2388,
+            "topics": [
+              "algorithm",
+              "clustering",
+              "computational-geometry",
+              "javascript",
+              "maps"
             ]
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1574,35 +1601,8 @@
             "open_issues": 8,
             "owner": "mourner",
             "repo": "simplify-js",
-            "stars": 2390,
+            "stars": 2388,
             "topics": []
-          },
-          "first_seen": "2026-08-28T06:55:02.462Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SuperCluster",
-          "description": "by Volodymyr Agafonkin A very fast geospatial point clustering library for browsers and Node",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A very fast geospatial point clustering library for browsers and Node.",
-            "homepage": null,
-            "id": 47860620,
-            "language": "JavaScript",
-            "license": "ISC",
-            "last_commit": "2026-09-03T08:35:00Z",
-            "open_issues": 33,
-            "owner": "mapbox",
-            "repo": "supercluster",
-            "stars": 2389,
-            "topics": [
-              "algorithm",
-              "clustering",
-              "computational-geometry",
-              "javascript",
-              "maps"
-            ]
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
         },
@@ -1650,7 +1650,7 @@
             "open_issues": 4,
             "owner": "trekhleb",
             "repo": "nano-neuron",
-            "stars": 2270,
+            "stars": 2269,
             "topics": [
               "artificial-intelligence",
               "javascript",
@@ -1677,7 +1677,7 @@
             "open_issues": 12,
             "owner": "mapbox",
             "repo": "geojson-vt",
-            "stars": 2083,
+            "stars": 2082,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1698,7 +1698,7 @@
             "open_issues": 124,
             "owner": "JSMonk",
             "repo": "hegel",
-            "stars": 2081,
+            "stars": 2080,
             "topics": [
               "javascript",
               "type-safety",
@@ -1723,7 +1723,7 @@
             "open_issues": 279,
             "owner": "cherrypy",
             "repo": "cherrypy",
-            "stars": 1950,
+            "stars": 1949,
             "topics": [
               "cherrypy",
               "cross-platform",
@@ -1757,7 +1757,7 @@
             "open_issues": 26,
             "owner": "mourner",
             "repo": "bullshit.js",
-            "stars": 1899,
+            "stars": 1898,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1778,7 +1778,7 @@
             "open_issues": 78,
             "owner": "tailhook",
             "repo": "vagga",
-            "stars": 1893,
+            "stars": 1892,
             "topics": [
               "containers",
               "linux",
@@ -1803,7 +1803,7 @@
             "open_issues": 11,
             "owner": "dmytrodanylyk",
             "repo": "shadow-layout",
-            "stars": 1772,
+            "stars": 1771,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1824,7 +1824,7 @@
             "open_issues": 18,
             "owner": "alexeyraspopov",
             "repo": "picocolors",
-            "stars": 1757,
+            "stars": 1756,
             "topics": [
               "ansi",
               "colors",
@@ -1851,7 +1851,7 @@
             "open_issues": 118,
             "owner": "pypa",
             "repo": "packaging.python.org",
-            "stars": 1686,
+            "stars": 1685,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1930,7 +1930,7 @@
             "open_issues": 36,
             "owner": "vshymanskyy",
             "repo": "StandWithUkraine",
-            "stars": 1558,
+            "stars": 1560,
             "topics": [
               "belarus",
               "russia",
@@ -1958,7 +1958,7 @@
             "open_issues": 13,
             "owner": "dmytrodanylyk",
             "repo": "folding-plugin",
-            "stars": 1508,
+            "stars": 1507,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -1979,7 +1979,7 @@
             "open_issues": 19,
             "owner": "dmytrodanylyk",
             "repo": "android-morphing-button",
-            "stars": 1429,
+            "stars": 1428,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -2000,7 +2000,7 @@
             "open_issues": 23,
             "owner": "komarserjio",
             "repo": "notejam",
-            "stars": 1135,
+            "stars": 1134,
             "topics": []
           },
           "first_seen": "2026-08-28T06:55:02.462Z"
@@ -2021,7 +2021,7 @@
             "open_issues": 33,
             "owner": "opengs",
             "repo": "uashield",
-            "stars": 1073,
+            "stars": 1072,
             "topics": [
               "cybersecurity",
               "ukraine",
@@ -2096,7 +2096,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-20T08:27:36Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "hueitan",
             "repo": "made-in-taiwan",
             "stars": 293,
@@ -2533,7 +2533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:08:01.472Z",
+    "last_updated": "2026-11-20T03:57:18.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇺🇦 Curating the best projects that were made and mainly contributed by Ukrainian developers",
